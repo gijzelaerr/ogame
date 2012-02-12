@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 
 
 # your atom feed, format: http://username:password@feedurl
-feed="http://gijzelaerr:8gC5mjoM9pqzc4F!@uni101.ogame.org/feed/show.php?feedid=2516103b4af1089fd810a806d4763a0d"
+feed="http://username:password@feedurl"
 
 # where to mail the reports
 from_mail="ogame@pythonic.nl"
